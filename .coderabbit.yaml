@@ -13,3 +13,11 @@ reviews:
     drafts: false
 chat:
   auto_reply: true
+  integrations:
+    jira:
+      usage: enabled
+knowledge_base:
+  jira:
+    usage: enabled
+    project_keys: ["BT"]
+
